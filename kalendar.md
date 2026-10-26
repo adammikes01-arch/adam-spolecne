@@ -19,7 +19,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 
 ## 🔥 Listopad 2026
 - *2. 11. (po) 19–22 h* – Czech Space Week: LaunchIT + Space4Women, Planetárium Praha [příležitosti]
-- *3. 11. (út)* – Czech Space Week: Space2Business [příležitosti]
+- *3.–4. 11. (út–st)* – Czech Space Week: Space2Business, Černínský palác Praha [příležitosti]
 - *4. 11. (st)* – Nadace ČB, výsledek (telefonát) [příležitosti]
 - *5. 11. (čt)* – Future Mindset Board, assessment centre [příležitosti]
 - **12. 11. (čt) od 8:00** – reprezentace VUT v Českých Budějovicích (dvě školy) ⚠ kolize s COMSOL 10–12 [příležitosti]
