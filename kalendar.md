@@ -19,7 +19,9 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 
 ## 🔥 Listopad 2026
 - *2. 11. (po) 19–22 h* – Czech Space Week: LaunchIT + Space4Women, Planetárium Praha [příležitosti]
-- **3.–4. 11. (út–st)** – Space2Business, Černínský palác Praha: Adam vystavuje oba dny (stánek UptimAI/HeadStart; vizuál připravit do 2. 11.) [příležitosti]
+- *29. 10. (čt)* – session se Šáleným nad přihláškou HeadStart (ESA parabolický let), čas upřesnit [příležitosti]
+- **30. 10. (pá)** – poslat peer review Tlapákovi (HeadStart) [příležitosti]
+- **3.–4. 11. (út–st)** – Space2Business, Černínský palác Praha: Adam vystavuje oba dny (stánek UptimAI/HeadStart, odjezd 3. 11. ráno, přespání v Praze, gala večer) [příležitosti]
 - *4. 11. (st)* – Nadace ČB, výsledek (telefonát) [příležitosti]
 - *5. 11. (čt)* – Future Mindset Board, assessment centre [příležitosti]
 - **12. 11. (čt) od 8:00** – reprezentace VUT v Českých Budějovicích (dvě školy) ⚠ kolize s COMSOL 10–12 [příležitosti]
