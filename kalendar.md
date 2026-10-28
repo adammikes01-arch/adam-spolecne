@@ -22,6 +22,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 
 ## 🔥 Listopad 2026
 - *2. 11. (po) 19–22 h* – Czech Space Week: LaunchIT + Space4Women, Planetárium Praha [příležitosti]
+- **do 2. 11. (po)** – slajdy pro Šáleného na Space2Business: měření stresu z EKG + SCG + doby šíření pulzní vlny (podklady od Šáleného/UptimAI zatím nedodány) [prezentace]
 - **3.–4. 11. (út–st)** – Space2Business, Černínský palác Praha: Adam vystavuje oba dny (stánek UptimAI/HeadStart, odjezd 3. 11. ráno, přespání v Praze, gala večer) [příležitosti]
 - *4. 11. (st)* – Nadace ČB, výsledek (telefonát) [příležitosti]
 - *5. 11. (čt)* – Future Mindset Board, assessment centre [příležitosti]
