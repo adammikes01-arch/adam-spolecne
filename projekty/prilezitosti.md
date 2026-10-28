@@ -16,3 +16,5 @@
 Termíny tohoto projektu jsou v `kalendar.md` se značkou `[příležitosti]`.
 
 **27. 10.:** Nový pracovní název disertace „Personalizovaný model pro predikci změn kognitivního výkonu z multimodálních dat v extrémních podmínkách“ (schvaluje oborová rada přes R. Koláře). BIOSTEC 2027 (Malta) potvrzen jako cíl. 3.–4. 11. Adam celé dva dny v Praze (Space2Business), odjezd 3. 11. ráno.
+
+**28. 10.:** Rozpis akcí VUT pro školy od Kosourové je v kalendáři (6. 11., 12. 11., 16. 11., 30. 11., 27. 1.). KEYENCE pohovor 28. 10. 9:00 proběhl/probíhá, výsledek doplníme. Od 27. 10. tento projekt čte Adamovu poštu (jen čtení, nic neposílá).
