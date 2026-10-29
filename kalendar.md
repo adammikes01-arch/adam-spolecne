@@ -18,14 +18,14 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - *29. 10. (čt)* – session se Šáleným nad přihláškou HeadStart (ESA parabolický let), čas upřesnit [příležitosti]
 - **29. 10. (čt) 14:00** – porada Musical Test (Teams, Jaromír) [příležitosti]
 - **30. 10.** – ESA Co-Funded PhD, uzávěrka (jen pokud se najde podpis) [příležitosti]
-- **30. 10. (pá)** – poslat peer review Tlapákovi (HeadStart) [příležitosti]
+- *3.–4. 11.* – dokument pro Tlapáka (HeadStart) předá Šálený v Praze [příležitosti]
 
 ## 🔥 Listopad 2026
 - *2. 11. (po) 19–22 h* – Czech Space Week: LaunchIT + Space4Women, Planetárium Praha [příležitosti]
 - **do 2. 11. (po)** – slajdy pro Šáleného na Space2Business: měření stresu z EKG + SCG + doby šíření pulzní vlny (podklady od Šáleného/UptimAI zatím nedodány) [prezentace]
 - **3.–4. 11. (út–st)** – Space2Business, Černínský palác Praha: Adam vystavuje oba dny (stánek UptimAI/HeadStart, odjezd 3. 11. ráno, přespání v Praze, gala večer) [příležitosti]
 - *4. 11. (st)* – Nadace ČB, výsledek (telefonát) [příležitosti]
-- *5. 11. (čt)* – Future Mindset Board, assessment centre [příležitosti]
+- **5. 11. (čt)** – Future Mindset Board, assessment centre Praha (postup potvrzen 29. 10.; Adam v Praze 3.–5. 11.) ⚠ kolize s COMSOL 10–12 [příležitosti]
 - **6. 11. (pá) 15:00–15:30** – reprezentace VUT, Logická olympiáda na FEKT ⚠ Kubíček navrhuje schůzku pá 6. 11. 9–15 nebo st 11. 11. 8–9 / 11–13 (vede projekt prezentace) [příležitosti]
 - **11. 11. (st) večer** – cesta Brno → České Budějovice na akce VUT [příležitosti]
 - **12. 11. (čt) celý den** – reprezentace VUT v Českých Budějovicích: SPŠ SE + VOŠ (Dukelská, Den pro VŠ, od 8:00) a VOŠ, SPŠ automobilní a technická (prezentace FEKT 10–13) ⚠ kolize s COMSOL 10–12 [příležitosti]
