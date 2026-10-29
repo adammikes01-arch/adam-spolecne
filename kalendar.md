@@ -42,7 +42,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 ## 🔥 Prosinec 2026
 - *prosinec* – ESA Co-Funded PhD, podání přes OSIP (místo 30. 10.) [příležitosti]
 - **4. 12.** – Hlávkova nadace, cestovní stipendium (BIOSTEC) [příležitosti]
-- *6. 12. (ne) ráno* – úvod na soutěži Mensa na VUT [příležitosti]
+- *6. 12. (ne) ráno* – úvod na soutěži Mensa na VUT (možná to bylo 6. 11., ověřit) [příležitosti]
 - **7.–11. 12.** – Brno Ph.D. Talent, finále s pitchem · *14. 12.* výsledky [příležitosti]
 - **16. 12.** – AsMA 2027, abstrakt (odeslat do 10. 12.) [příležitosti]
 - **22. 12.** – BIOSTEC Doctoral Consortium (odeslat do 20. 12.) [příležitosti]
