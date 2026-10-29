@@ -51,6 +51,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 ## Leden 2027
 - *~6. 1.* – COST WEARSENSNET, rozhodnutí [příležitosti]
 - **11.–15. 1.** – kurz COMSOL (Humusoft) [příležitosti]
+- *duben 2027* – finále soutěže týmů FEKT na EEICT (vyhlášení chystá proděkanka pro studium, termíny upřesní) [příležitosti]
 - **18.–22. 1.** – ESA Commercialisation Workshop, Belgie (pokud vyjde) [příležitosti]
 - *leden* – prezentace v Presentation and Publication Skills (datum upřesní Vítek) [příležitosti]
 - **27. 1. (st), čas zatím neznámý** – reprezentace VUT, Gymnázium tř. kpt. Jaroše Brno, prezentace VŠ [příležitosti]
