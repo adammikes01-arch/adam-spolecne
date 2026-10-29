@@ -17,7 +17,6 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - *29. 10.* – Future Mindset Board, výsledky [příležitosti]
 - *29. 10. (čt)* – session se Šáleným nad přihláškou HeadStart (ESA parabolický let), čas upřesnit [příležitosti]
 - **29. 10. (čt) 14:00** – porada Musical Test (Teams, Jaromír) [příležitosti]
-- **30. 10.** – ESA Co-Funded PhD, uzávěrka (jen pokud se najde podpis) [příležitosti]
 - *3.–4. 11.* – dokument pro Tlapáka (HeadStart) předá Šálený v Praze [příležitosti]
 
 ## 🔥 Listopad 2026
@@ -40,6 +39,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - do konce 11. – Škoda: měření na volantu (termín upřesní Škoda) [příležitosti]
 
 ## 🔥 Prosinec 2026
+- *prosinec* – ESA Co-Funded PhD, podání přes OSIP (místo 30. 10.) [příležitosti]
 - **4. 12.** – Hlávkova nadace, cestovní stipendium (BIOSTEC) [příležitosti]
 - *6. 12. (ne) ráno* – úvod na soutěži Mensa na VUT [příležitosti]
 - **7.–11. 12.** – Brno Ph.D. Talent, finále s pitchem · *14. 12.* výsledky [příležitosti]
