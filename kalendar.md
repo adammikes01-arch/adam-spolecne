@@ -20,7 +20,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - *3.–4. 11.* – dokument pro Tlapáka (HeadStart) předá Šálený v Praze [příležitosti]
 
 ## 🔥 Listopad 2026
-- *2. 11. (po) 19–22 h* – Czech Space Week: LaunchIT + Space4Women, Planetárium Praha [příležitosti]
+- *2. 11. (po) 19:00* – Space4Women, Planetárium Praha (nepovinné; LaunchIT je 9–16 na ČVUT) [příležitosti]
 - **do 2. 11. (po)** – slajdy pro Šáleného na Space2Business: měření stresu z EKG + SCG + doby šíření pulzní vlny (podklady od Šáleného/UptimAI zatím nedodány) [prezentace]
 - **3.–4. 11. (út–st)** – Space2Business, Černínský palác Praha: Adam vystavuje oba dny (stánek UptimAI/HeadStart, odjezd 3. 11. ráno, přespání v Praze, gala večer) [příležitosti]
 - *4. 11. (st)* – Nadace ČB, výsledek (telefonát) [příležitosti]
@@ -67,6 +67,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 
 ## Březen 2027
 - **1. 3.** – SMA stipendia (AsMA) [příležitosti]
+- ~začátek 3. – FameLab ČR, přihláška s videem (loni do 8. 3.) [příležitosti]
 - **15. 3.** – AKTION ČR–Rakousko · ~15. 3. Student EEICT (dle loňska) [příležitosti]
 
 ## Duben–červen 2027
@@ -77,7 +78,6 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - ~30. 6. – Falling Walls Lab Czech Republic (dle loňska) [příležitosti]
 
 ## Červenec–září 2027
-- ~17. 7. – FameLab ČR (dle loňska) [příležitosti]
 - **1. 9.** – začít Cenu prof. Babušky (uzávěrka ~30. 9.) [příležitosti]
 - *7.–10. 9.* – ELGRA Symposium, Brémy [příležitosti]
 - *9.–10. 9.* – Technical Computing Camp 2027 [příležitosti]
