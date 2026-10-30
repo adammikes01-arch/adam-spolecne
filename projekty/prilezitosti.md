@@ -20,3 +20,5 @@ Termíny tohoto projektu jsou v `kalendar.md` se značkou `[příležitosti]`.
 **28. 10.:** Rozpis akcí VUT pro školy od Kosourové je v kalendáři (6. 11., 12. 11., 16. 11., 30. 11., 27. 1.). KEYENCE pohovor 28. 10. 9:00 proběhl/probíhá, výsledek doplníme. Od 27. 10. tento projekt čte Adamovu poštu (jen čtení, nic neposílá).
 
 **29. 10.:** Časová osa všeho, co je za námi a před námi: https://claude.ai/artifact/SqJLUiRV1xgF7e2amhtNAQ (soukromá, otevře ji jen Adam). ESA Co-Funded PhD přesunuto na prosinec. Future Mindset Board: assessment centre 5. 11. v Praze.
+
+**30. 10.:** Riziko: Šálený má prý povinnou dovolenou do konce roku (zatím neověřeno, Adam ověří 2. 11.). Může ohrozit podpis a podání ESA Fly Your Thesis! do 22. 11.
