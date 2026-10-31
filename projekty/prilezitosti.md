@@ -21,4 +21,4 @@ Termíny tohoto projektu jsou v `kalendar.md` se značkou `[příležitosti]`.
 
 **29. 10.:** Časová osa všeho, co je za námi a před námi: https://claude.ai/artifact/SqJLUiRV1xgF7e2amhtNAQ (soukromá, otevře ji jen Adam). ESA Co-Funded PhD přesunuto na prosinec. Future Mindset Board: assessment centre 5. 11. v Praze.
 
-**30. 10.:** Riziko: Šálený má prý povinnou dovolenou do konce roku (zatím neověřeno, Adam ověří 2. 11.). Může ohrozit podpis a podání ESA Fly Your Thesis! do 22. 11.
+**30.–31. 10.:** Šálený má dovolenou do konce roku, ale s Adamem dál pracuje. Fly Your Thesis! (22. 11.) to neohrožuje.
