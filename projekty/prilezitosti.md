@@ -22,3 +22,5 @@ Termíny tohoto projektu jsou v `kalendar.md` se značkou `[příležitosti]`.
 **29. 10.:** Časová osa všeho, co je za námi a před námi: https://claude.ai/artifact/SqJLUiRV1xgF7e2amhtNAQ (soukromá, otevře ji jen Adam). ESA Co-Funded PhD přesunuto na prosinec. Future Mindset Board: assessment centre 5. 11. v Praze.
 
 **30.–31. 10.:** Šálený má dovolenou do konce roku, ale s Adamem dál pracuje. Fly Your Thesis! (22. 11.) to neohrožuje.
+
+**2. 11.:** Pondělní shrnutí. Tým HeadStart rozšířen (Polánková). FMB assessment centre 5. 11. potvrzen, KEYENCE čeká na odpověď (~11. 11.). Cvičení COMSOL 12. 11. odučí Kožíšek. Do 9. 11. dovolená do IS.
