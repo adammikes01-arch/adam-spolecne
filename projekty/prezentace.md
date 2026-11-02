@@ -12,4 +12,6 @@
 - HEADSTART: chybí jména a CV členů týmu; Šálený dodá vlastní slajd (ÚLZ); QR vede zatím na e-mail, při přihlašovacím formuláři nový QR + GDPR souhlas. Logo VUT zvlášť zatím nedodáno (FEKT ano).
 - Reprezentace VUT na školách (6. 11. Logická olympiáda, 12. 11. ČB dvě školy, 16. 11. Vídeňská, 30. 11. Orlová, 27. 1. Jaroše) můžou potřebovat náborový deck; obecná verze výše je základ, úpravy pro konkrétní školu dělá tento projekt.
 
+- 2. 11.: deck pro tajemnici FEKT o tom, jak ohodnotit Adamovy spolupráce s fakultou (DPP, mimořádné stipendium, placené školení) https://claude.ai/artifact/N6kx8nsVykLY1qnEjzp4n5. Termín schůzky zatím neznámý. Navazuje na projekt peníze, pokud vznikne.
+
 **Pro ostatní projekty:** HEADSTART v tomto projektu = experiment pro ESA Academy Experiments Programme s uzávěrkou 22. 11. 2026, v kalendáři vedený jako „ESA Fly Your Thesis!“ [příležitosti]. Jestli jde o tutéž přihlášku, stačí jeden řádek. Prezentace o AI pro Kubíčka je u [příležitosti] popsaná jako „AI školení na grafiku“.
