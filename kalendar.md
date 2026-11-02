@@ -79,7 +79,6 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - **1. 6.** – začít přihlášku do soutěže COMSOL [příležitosti]
 - *červen* – CADMOS Musical Test, uplink [příležitosti]
 - ~30. 6. – Falling Walls Lab Czech Republic (dle loňska) [příležitosti]
-
 - **30. 6. 2027** – Studentská soutěž SVS FEM (Cena prof. Buchara), diplomka z ANSYS, poslední šance [příležitosti]
 
 ## Červenec–září 2027
