@@ -26,7 +26,8 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - *4. 11. (st)* – Nadace ČB, výsledek (telefonát) [příležitosti]
 - **5. 11. (čt)** – Future Mindset Board, assessment centre Praha (postup potvrzen 29. 10.; Adam v Praze 3.–5. 11.) (účast potvrzena 31. 10.) ⚠ kolize s COMSOL 10–12 [příležitosti]
 - **6. 11. (pá) 15:00–15:30** – reprezentace VUT, Logická olympiáda na FEKT [příležitosti]
-- *6. 11. (pá) 10:00* – schůzka s proděkanem Kubíčkem (Adam navrhl 28. 10., záloha st 11. 11. 11:00; čeká na potvrzení, vede projekt prezentace) [příležitosti]
+- **6. 11. (pá) 10:00–11:00** – schůzka s proděkanem Kubíčkem, T12 SD6.76 (potvrzeno; vede projekt prezentace) · 11:30–12:00 Tomáš Vacek (FSI), možný člen týmu HeadStart [příležitosti]
+- **11. 11. (st)** – tým HeadStart: souhlasy ESA podepsané, ESA Learn, údaje doplněné [příležitosti]
 - **9. 11. (po)** – dovolená do IS (pokyn R. Koláře pro ÚBMI) a podklady Kožíškovi na cvičení 12. 11. [příležitosti]
 - *~11. 11.* – KEYENCE, odpověď po pohovoru [příležitosti]
 - **11. 11. (st) večer** – cesta Brno → České Budějovice na akce VUT [příležitosti]
@@ -44,7 +45,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 ## 🔥 Prosinec 2026
 - *prosinec* – ESA Co-Funded PhD, podání přes OSIP (místo 30. 10.) [příležitosti]
 - **4. 12.** – Hlávkova nadace, cestovní stipendium (BIOSTEC) [příležitosti]
-- *6. 12. (ne) ráno* – úvod na soutěži Mensa na VUT (možná to bylo 6. 11., ověřit) [příležitosti]
+- ~~6. 12. – úvod na soutěži Mensa~~ (šlo o Logickou olympiádu Mensy 6. 11., viz listopad) [příležitosti]
 - **7.–11. 12.** – Brno Ph.D. Talent, finále s pitchem · *14. 12.* výsledky [příležitosti]
 - **16. 12.** – AsMA 2027, abstrakt (odeslat do 10. 12.) [příležitosti]
 - **22. 12.** – BIOSTEC Doctoral Consortium (odeslat do 20. 12.) [příležitosti]
