@@ -31,7 +31,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - **9. 11. (po)** – dovolená do IS (pokyn R. Koláře pro ÚBMI) a podklady Kožíškovi na cvičení 12. 11. [příležitosti]
 - *~11. 11.* – KEYENCE, odpověď po pohovoru [příležitosti]
 - **11. 11. (st) večer** – cesta Brno → České Budějovice na akce VUT [příležitosti]
-- **12. 11. (čt) celý den** – reprezentace VUT v Českých Budějovicích: SPŠ SE + VOŠ (Dukelská, Den pro VŠ, od 8:00) a VOŠ, SPŠ automobilní a technická (prezentace FEKT 10–13); cvičení COMSOL 10–12 odučí Kožíšek (potvrdil 30. 10.) [příležitosti]
+- **12. 11. (čt) celý den** – reprezentace VUT v Českých Budějovicích: SPŠ SE + VOŠ (Dukelská, Den pro VŠ, slot FEKT 8:35–8:55) a VOŠ, SPŠ automobilní a technická (prezentace FEKT 10–13); cvičení COMSOL 10–12 odučí Kožíšek (potvrdil 30. 10.) [příležitosti]
 - **16. 11. (po) 8–13** – reprezentace VUT, Gymnázium Vídeňská Brno, kariérní den [příležitosti]
 - *po 18. 11.* – Brno Ph.D. Talent, oznámení finalistů [příležitosti]
 - **22. 11. (ne)** – **ESA Fly Your Thesis! (parabolický let), uzávěrka**; odeslat do 20. 11. [příležitosti]
