@@ -24,3 +24,5 @@ Termíny tohoto projektu jsou v `kalendar.md` se značkou `[příležitosti]`.
 **30.–31. 10.:** Šálený má dovolenou do konce roku, ale s Adamem dál pracuje. Fly Your Thesis! (22. 11.) to neohrožuje.
 
 **2. 11.:** Pondělní shrnutí. Tým HeadStart rozšířen (Polánková). FMB assessment centre 5. 11. potvrzen, KEYENCE čeká na odpověď (~11. 11.). Cvičení COMSOL 12. 11. odučí Kožíšek. Do 9. 11. dovolená do IS.
+
+**6. 11.:** Space2Business v Praze úspěch, FMB assessment centre proběhlo (čeká se na výsledek), KEYENCE nevyšlo. 9. 11. schůzka s tajemnicí FEKT (po Kubíčkovi).
