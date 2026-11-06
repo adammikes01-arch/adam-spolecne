@@ -38,7 +38,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - **22. 11. (ne)** – **ESA Fly Your Thesis! (parabolický let), uzávěrka**; odeslat do 20. 11. [příležitosti]
 - *23. 11.* – ESA Commercialisation Workshop, výsledky [příležitosti]
 - **23. 11.** – požádat T. Freeborna o zvací dopis (Fulbright) [příležitosti]
-- **26. 11.** – JIC Applied!, uzávěrka [příležitosti]
+- ~~26. 11. – JIC Applied!~~ (Adam 6. 11.: nepodává) [příležitosti]
 - **30. 11.** – anglický pitch pro finále Brno Ph.D. Talent hotový [příležitosti]
 - **30. 11. (po) ~7–15 h** – reprezentace VUT, Den s vysokými školami, Orlová (auto z Brna, potvrzeno) [příležitosti]
 - do konce 11. – Škoda: měření na volantu (termín upřesní Škoda) [příležitosti]
