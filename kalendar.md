@@ -29,7 +29,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - **6. 11. (pá) 10:00–11:00** – schůzka s proděkanem Kubíčkem, T12 SD6.76 (potvrzeno; vede projekt prezentace) · 11:30–12:00 Tomáš Vacek (FSI), možný člen týmu HeadStart [příležitosti]
 - **11. 11. (st)** – tým HeadStart: souhlasy ESA podepsané, ESA Learn, údaje doplněné [příležitosti]
 - **9. 11. (po)** – dovolená do IS (pokyn R. Koláře pro ÚBMI) a podklady Kožíškovi na cvičení 12. 11. [příležitosti]
-- *~11. 11.* – KEYENCE, odpověď po pohovoru [příležitosti]
+- ~~~11. 11. – KEYENCE, odpověď~~ (6. 11. zamítnuto) [příležitosti]
 - **11. 11. (st) večer** – cesta Brno → České Budějovice na akce VUT [příležitosti]
 - **12. 11. (čt) celý den** – reprezentace VUT v Českých Budějovicích: SPŠ SE + VOŠ (Dukelská, Den pro VŠ, slot FEKT 8:35–8:55) a VOŠ, SPŠ automobilní a technická (prezentace FEKT 10–13); cvičení COMSOL 10–12 odučí Kožíšek (potvrdil 30. 10.) [příležitosti]
 - **16. 11. (po) 8:00–12:35** – reprezentace VUT, Gymnázium Vídeňská Brno, kariérní den (sraz 8:00) [příležitosti]
