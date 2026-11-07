@@ -26,3 +26,5 @@ Termíny tohoto projektu jsou v `kalendar.md` se značkou `[příležitosti]`.
 **2. 11.:** Pondělní shrnutí. Tým HeadStart rozšířen (Polánková). FMB assessment centre 5. 11. potvrzen, KEYENCE čeká na odpověď (~11. 11.). Cvičení COMSOL 12. 11. odučí Kožíšek. Do 9. 11. dovolená do IS.
 
 **6. 11.:** Space2Business v Praze úspěch, FMB assessment centre proběhlo (čeká se na výsledek), KEYENCE nevyšlo. 9. 11. schůzka s tajemnicí FEKT (po Kubíčkovi).
+
+**7. 11.:** Nadace města ČB schválila stipendium na školní rok 2026/27, předání 26. 11. v ČB.

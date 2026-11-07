@@ -40,6 +40,7 @@ Jen termíny a události, bez detailů. Každý řádek končí značkou projekt
 - *23. 11.* – ESA Commercialisation Workshop, výsledky [příležitosti]
 - **23. 11.** – požádat T. Freeborna o zvací dopis (Fulbright) [příležitosti]
 - ~~26. 11. – JIC Applied!~~ (Adam 6. 11.: nepodává) [příležitosti]
+- **26. 11. (čt) 15:00** – Nadace ČB: předání stipendia v Českých Budějovicích (místo upřesní nadace); ⚠ COMSOL v Brně do 12:00 [příležitosti]
 - **30. 11.** – anglický pitch pro finále Brno Ph.D. Talent hotový [příležitosti]
 - **30. 11. (po) ~7–15 h** – reprezentace VUT, Den s vysokými školami, Orlová (auto z Brna, potvrzeno) [příležitosti]
 - do konce 11. – Škoda: měření na volantu (termín upřesní Škoda) [příležitosti]
